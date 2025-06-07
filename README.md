@@ -5,7 +5,7 @@ Hello there! I'm passionate about coding, problem-solving, and learning new tech
 ---
 
 ## 🛠️ Skills and Interests
-- **Languages**: Python, Java, C++
+- **Languages**: Rust, Java, C++
 - **Frameworks**: React
 - **Interests**: AI, Machine Learning, Software Design
 
