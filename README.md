@@ -33,13 +33,14 @@ flowchart TD
         COS344["COS 344<br>80%"]:::elective
     end
 
+    COS110 --> COS216
     COS110 --> COS212
     COS110 --> COS210
+    COS110 --> COS314
+    COS110 --> COS344
     COS212 --> COS214
     COS212 --> COS226
-    COS210 --> COS284
+    COS212 --> COS284
     COS216 --> COS332
-    COS314 --> COS332
-    COS344 --> COS332
 
     linkStyle default stroke:#333, stroke-width:2px
