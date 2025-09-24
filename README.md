@@ -28,8 +28,8 @@ flowchart TD
     end
 
     subgraph Year3["Year 3"]
-        COS314["COS 314<br>75%"]:::elective
         COS332["COS 332<br>75%"]:::advanced
+        COS314["COS 314<br>75%"]:::elective
         COS344["COS 344<br>80%"]:::elective
     end
 
