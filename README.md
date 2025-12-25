@@ -25,7 +25,6 @@ flowchart TD
         COS216["COS 216<br>81%"]:::elective
         COS226["COS 226<br>81%"]:::advanced
         COS284["COS 284<br>79%"]:::advanced
-        COS330["COS 330<br>84%"]:::advanced
     end
 
     subgraph Year3["Year 3"]
@@ -33,6 +32,7 @@ flowchart TD
         COS314["COS 314<br>75%"]:::elective
         COS344["COS 344<br>80%"]:::elective
         COS341["COS 341<br>79%"]:::advanced
+         COS330["COS 330<br>84%"]:::advanced
     end
 
     COS110 --> COS216
@@ -41,13 +41,10 @@ flowchart TD
     COS110 --> COS314
     COS110 --> COS344
     COS110 --> COS330
-
     COS212 --> COS214
     COS212 --> COS226
     COS212 --> COS284
-
     COS216 --> COS332
-
     COS210 --> COS341
     COS212 --> COS341
 
